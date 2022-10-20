@@ -9,7 +9,7 @@
 ## **Data Enthusiast**
 📫 How to reach me: 
 randijuliansaputra46@gmail.com
-linkedin.com/in/randijulian/
+linkedin.com/in/randijulian
 <!--
 Here are some ideas to get you started:
 
