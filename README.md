@@ -1,8 +1,8 @@
 # Hi 👋, I'm Randi Julian Saputra
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=merko">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=merko&hide=html,css">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=tokyonight&hide=html,css">
 </p>
 
 
