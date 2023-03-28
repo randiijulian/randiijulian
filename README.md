@@ -5,12 +5,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
 </p>
 
-<p>
 ## **Data Enthusiast**
 📫 How to reach me: 
 randijuliansaputra46@gmail.com
 linkedin.com/in/randijulian
-</p>
 <!--
 Here are some ideas to get you started:
 
