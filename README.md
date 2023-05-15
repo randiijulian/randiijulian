@@ -6,7 +6,6 @@
 </p>
 
 <!-- visitor -->
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
 <p align="left">
 <!-- Linkedin -->
