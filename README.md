@@ -11,7 +11,7 @@
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/randijulian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   
-##
+
 ## **Data Enthusiast**
 📫 How to reach me: 
 randijuliansaputra46@gmail.com
