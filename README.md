@@ -9,7 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
 <p align="left">
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/randijulian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
   
 
 ## **Data Enthusiast**
