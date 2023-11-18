@@ -14,6 +14,7 @@
     <p align="left"> </p>
     <p>
       <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+      <a href="https://www.instagram.com/randiijulian"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat&logo=instagram" alt="Instagram"></a>
       <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
       <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
     </p>
