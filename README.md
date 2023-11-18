@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
-  <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-brightgreen?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 ## **Data Enthusiast**
