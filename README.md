@@ -1,5 +1,6 @@
 # Hi 👋, I'm Randi Julian Saputra
 
+<div class="col-auto px-0 h-100"><span id="loading-icons" style="display:none">
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
@@ -14,6 +15,7 @@
   <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
   <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
 </p>
+</div>
 
 ## **Data Enthusiast**
 <!--📫 How to reach me: 
