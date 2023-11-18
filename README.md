@@ -8,15 +8,16 @@
 <!-- visitor -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
 <p align="left">
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
-  
+<p>
+  <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
+  <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
+</p>
 
 ## **Data Enthusiast**
-📫 How to reach me: 
+<!--📫 How to reach me: 
 randijuliansaputra46@gmail.com
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
