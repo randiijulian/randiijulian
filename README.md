@@ -1,20 +1,22 @@
 # Hi 👋, I'm Randi Julian Saputra
 
 <div class="col-auto px-0 h-100"><span id="loading-icons" style="display:none">
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
-</p>
+  <span class="px-1">
+    <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
+    </p>
+  </span>
 
-<!-- visitor -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
-<p align="left">
-  
-<p>
-  <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
-  <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
-</p>
+  <span class="px-1">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
+    <p align="left"> </p>
+    <p>
+      <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+      <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
+      <a href="mailto:randijuliansaputra46@gmail.com"><img src="https://img.shields.io/badge/Email-Me-brightgreen?style=flat&logo=gmail" alt="Email"></a>
+    </p>
+  </span>
 </div>
 
 ## **Data Enthusiast**
