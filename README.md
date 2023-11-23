@@ -16,7 +16,7 @@
 ## **Interesred in working as a Data Scientist**
 
 ### Data Engineer 🛠️
-**Tools**: SQL, Linux, Git.
+**Tools**: SQL, Git.
 
 ### Data Analyst 📊
 **Tools**: SQL, Python.
