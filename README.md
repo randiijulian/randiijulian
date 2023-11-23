@@ -26,7 +26,7 @@
 ### Data Scientist 🧬
 **Tools**: Jupyter Notebook, Scikit-Learn, OpenCV, NLTK, Ultralytics (YOLO), Tensorflow, Pytorch, Transformers, Streamlit, Langchain.
 
-### Machine Learning Engineer 🤖
+<!-- ### Machine Learning Engineer 🤖 -->
 <!-- **Tools**: Git, FastAPI, Docker, Linux, BentoML, ML-Flow, Model Arts (Huawei Cloud). -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css" width = "400" height = "400"/></p>
