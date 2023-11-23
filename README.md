@@ -1,12 +1,12 @@
 # Hi 👋, I'm Randi Julian Saputra
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
-<p align="left"> </p>
-<p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
+<p align="center"> </p>
+<p align="center">
   <a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/randiijulian"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat&logo=instagram" alt="Instagram"></a>
   <a href="https://www.shutterstock.com/g/randijulian"><img src="https://img.shields.io/badge/Shutterstock-Portfolio-orange?logo=shutterstock" alt="Shutterstock"></a>
