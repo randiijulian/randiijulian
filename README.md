@@ -13,7 +13,7 @@
 </p>
 
 - 🕵🏻 Interest on research and end-to-end machine learning project.
-- ✉️: [randijuliansaputra46@gmail.com](randijuliansaputra46@gmail.com)
+- ✉️: [mailto:randijuliansaputra46@gmail.com](randijuliansaputra46@gmail.com)
 <!-- - more details about my journey in the machine learning field could you read [here](https://www.dicoding.com/users/randijulian) -->
 
 ## **Skill Set**
