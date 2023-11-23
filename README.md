@@ -1,8 +1,10 @@
 # Hi 👋, I'm Randi Julian Saputra
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randiijulian&show_icons=true&theme=synthwave" width = "400" height = "400"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiijulian&show_icons=true&layout=compact&theme=synthwave&hide=html,css" width = "400" height = "400"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=randiijulian&label=Profile%20views&color=0e75b6&style=flat" alt="randiijulian" /> </p>
 <p align="center"> </p>
